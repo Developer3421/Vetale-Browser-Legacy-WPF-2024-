@@ -70,12 +70,6 @@ This repository documents the **starting point** of that evolution.
 
 ---
 
-## Links
-
-* **Microsoft Store**: *[link here]*
-* **GitHub Repository**: *[link here]*
-
----
 
 ## Notes for Reviewers
 
